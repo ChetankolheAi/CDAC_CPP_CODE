@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO-LOQ-1007\\Desktop\\CDAC_CODES_CPP\\Assignment_Day_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C335E1F-92A2-431B-AB24-7BB7D2BB1963}|Assignment_Operator_Overloading\\Assignment_Operator_Overloading.vcxproj|C:\\Users\\LENOVO-LOQ-1007\\Desktop\\CDAC_CODES_CPP\\Assignment_Day_4\\Assignment_Operator_Overloading\\Complex_Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C335E1F-92A2-431B-AB24-7BB7D2BB1963}|Assignment_Operator_Overloading\\Assignment_Operator_Overloading.vcxproj|solutionrelative:Assignment_Operator_Overloading\\Complex_Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex_Number.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO-LOQ-1007\\Desktop\\CDAC_CODES_CPP\\Assignment_Day_4\\Assignment_Operator_Overloading\\Complex_Number.cpp",
+              "RelativeDocumentMoniker": "Assignment_Operator_Overloading\\Complex_Number.cpp",
+              "ToolTip": "C:\\Users\\LENOVO-LOQ-1007\\Desktop\\CDAC_CODES_CPP\\Assignment_Day_4\\Assignment_Operator_Overloading\\Complex_Number.cpp",
+              "RelativeToolTip": "Assignment_Operator_Overloading\\Complex_Number.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-29T10:29:22.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
