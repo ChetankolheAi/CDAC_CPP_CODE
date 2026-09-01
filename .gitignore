@@ -1,0 +1,10 @@
+.vs/
+.vs/
+# Ignore Visual Studio cache files
+.vs/
+*.ipch
+*.suo
+*.user
+*.tmp
+*.log
+.vs/
