@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Airline_Ticket_Booking/Airline_Ticket_Booking.vcxproj" Id="2ed4a3bf-625b-4877-8e64-ec9a308d699e" />
+  <Project Path="Coustom_Exception_/Coustom_Exception_.vcxproj" Id="e3aa6e47-c970-4369-862c-3d2c70b32d57" />
 </Solution>
