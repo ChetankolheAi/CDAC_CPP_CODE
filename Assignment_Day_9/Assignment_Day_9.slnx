@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FileHandling1/FileHandling1.vcxproj" Id="743f6c81-7c2e-421c-9914-2e744831f29e" />
+</Solution>
