@@ -6,6 +6,8 @@
 #include<vector>
 #include<string>
 using namespace std;
+
+
 void identifyAndProcessPatient(Patient* ptr) {
     if (!ptr) return;
 
@@ -16,7 +18,7 @@ void identifyAndProcessPatient(Patient* ptr) {
     EmergencyPatient* eptr = dynamic_cast<EmergencyPatient*>(ptr);
     if (eptr != nullptr) {
         cout << ">> [RTTI MATCH] Identified as EmergencyPatient dynamically!" << endl;
-        cout << ">> Additional Fees   : $"
+        cout << ">> Additional Fee : $"
             << (eptr->getEmergencyServiceCharges() + eptr->getAmbulanceCharges()) << endl;
     }
     else {

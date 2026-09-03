@@ -11,7 +11,6 @@ private:
     double medicineFees;
 
 public:
-    // Fixed syntax error in parameter list: double diagnosticTestsFees
     OutPatient(int patientID, string patientName, int age, int noOfDays,
         double consultationFees, double diagFees, double medFees)
         : Patient(patientID, patientName, age, noOfDays, consultationFees) {
@@ -20,7 +19,6 @@ public:
         this->medicineFees = medFees;
     }
 
-    // Override keyword added for safety and clarity
     double calculateBill() override {
         return getConsultationFees() + diagnosticTestsFees + medicineFees;
     }
