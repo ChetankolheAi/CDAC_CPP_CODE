@@ -26,7 +26,7 @@ public:
 
 		do
 		{
-			p1.Accept();
+			p1.Accept(); 
 			fs.write((char*)&p1, sizeof(StudentRecord));
 			cout << "\n do u wnat to add more records:";
 			cin >> wish;

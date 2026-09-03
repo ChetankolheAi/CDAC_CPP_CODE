@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Largest_Of_Two_Number/Largest_Of_Two_Number.vcxproj" Id="1b588bd4-ee11-47a6-872d-b71041399804" />
+</Solution>
